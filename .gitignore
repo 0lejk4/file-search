@@ -1,0 +1,15 @@
+*.class
+*.log
+.bloop
+.idea
+.metals
+
+out/
+
+.idea_modules/
+
+.idea/replstate.xml
+.idea/httpRequests
+
+dist/*
+target/
